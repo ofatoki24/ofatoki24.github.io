@@ -181,10 +181,12 @@ h1 {
     margin: 20px 0;
     color:maroon;
 }
-body {
+
+body{
     background-color: burlywood;
 }
 h2 {
+    font-size: x-large;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -210,5 +212,7 @@ h2 a {
     display:right to "logocandle"
 }
 ,div1{
-    display:flex
+    display:flex;
+    justify-content:center;
+
 }
