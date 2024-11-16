@@ -186,9 +186,9 @@ body{
     background-color: burlywood;
 }
 h2 {
-    font-size: x-large;
+   font-size: x-large;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space -evenly;
     align-items: center;
     flex-wrap: wrap;
     gap: 20px;
@@ -216,7 +216,8 @@ h2 a {
     justify-content:center;
 
 }
-h2 {
+main {
+
     calm autistic candle 
     margin:0;
     padding:0;
@@ -227,4 +228,45 @@ h2 {
     margin:0;
     padding:0;
 
+
+}
+h3 {
+    font-size: x-large;
+    display: flex;
+    justify-content: space -evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    display: flex;  
+justify-content: space-evenly;
+align-items: center; 
+}
+
+h4 {
+    font-size: x-large;
+    display: flex;
+    justify-content: space -evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    display: flex;  
+justify-content: space-evenly;
+align-items: center;   
+}
+h1 {
+    justify-content: left;
+}
+
+main {
+    calm autistic candle 
+    margin:0;
+    padding:0;
+    calm bipolar candle
+    margin:0;
+    padding:0;
+    relaxing candle
+    margin:0;
+    padding:0;
 }
